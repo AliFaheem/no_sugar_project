@@ -1,0 +1,53 @@
+User ID,Age,Weight,duration,HbA1c,Category,Fasting,Meals,Exercise,target_days
+User_1,58,103,7,7.7,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_2,44,93,17,9.6,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_3,37,121,4,9.9,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_4,50,73,5,9,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_5,48,107,7,8.4,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_6,52,74,13,9.1,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_7,40,121,15,9.4,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_8,40,99,11,6,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_9,53,112,4,7.9,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_10,53,83,13,7.1,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_11,32,85,7,10.7,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_12,51,119,19,8.6,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_13,31,100,2,11.9,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_14,53,88,10,8.1,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_15,59,74,13,10.8,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_16,31,104,6,10.7,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_17,50,124,12,6.5,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_18,62,68,12,8.8,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_19,41,60,11,10,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_20,51,67,7,11.1,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_21,54,122,1,7.6,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_22,56,70,1,6.9,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_23,57,67,13,10.1,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_24,45,94,9,10.8,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_25,44,94,3,7.8,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_26,32,92,7,6.1,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_27,36,64,6,11.6,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_28,50,100,8,8.1,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_29,38,87,9,8.9,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_30,47,66,5,10.9,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_31,33,71,1,9.9,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_32,54,93,19,10.3,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_33,43,92,10,6.9,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_34,38,107,12,9,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_35,55,82,15,10,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_36,31,121,9,7,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_37,49,96,17,6.6,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_38,57,103,17,11.9,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_39,36,94,12,8.9,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_40,37,124,7,7.2,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_41,64,106,2,12,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_42,43,62,3,11.8,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_43,46,60,17,9.1,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_44,33,64,5,11.2,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_45,31,73,17,6.7,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_46,35,86,17,7.3,Mild,16-8 (Daily) progressing to 18-6,"2 meals (Low carbs, high protein)",30 min brisk walk + resistance training (2x per week),90
+User_47,33,68,17,10.1,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_48,58,74,2,11,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_49,47,101,2,11.1,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_50,55,110,5,8.1,Complex,14-10 progressing to 18-6 (After 2 weeks),3 small meals (Strict low carbs),20 min light walk progressing to resistance training (after 4 weeks),120
+User_51,41,91,3,6.2,Simple,16-8 (Daily),"2 meals + 1 snack (Low carbs, balanced diet)",30 min brisk walk (5x per week),60
+User_52,34,68,2,5.8,Simple,16-8 (Daily),"2 meals + 1 snack (Low carbs, balanced diet)",30 min brisk walk (5x per week),60
